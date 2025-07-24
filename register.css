@@ -1,0 +1,22 @@
+h1{ color : blue;
+	text-align:center;
+}
+h2{ color : magenta;
+	text-align:center;
+}
+
+
+table{
+background-color : turquoise
+}
+
+
+input{
+color : Blue;
+text-align:center;
+font-size: 30px
+}
+
+select{
+color: violet;
+}
